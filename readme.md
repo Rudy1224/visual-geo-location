@@ -8,7 +8,8 @@ per line: user ID, latitude and longitude for example: 114.323888 130.579647
 ####Requirements
 * [numpy](http://www.numpy.org/)
 * [matplotlib](http://matplotlib.org/)
-* [Basemap](http://matplotlib.org/basemap/)<br>
-####Output
+* [Basemap](http://matplotlib.org/basemap/)
+
+####Sample Output
 ![](https://raw.githubusercontent.com/Rudy1224/visual-geo-location/master/figure_1.png)
 ![](https://raw.githubusercontent.com/Rudy1224/visual-geo-location/master/figure_china.png)
